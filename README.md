@@ -9,6 +9,6 @@ SRC (Edited, only code) https://cdn.discordapp.com/attachments/10184721799077110
 Original Developer:
 ![image](https://user-images.githubusercontent.com/46028187/198882278-75186014-1165-490f-9203-c3c180761af7.png)
 
-This is original developer
+(i win)
 
 0.2.8 Soon
